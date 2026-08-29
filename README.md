@@ -32,7 +32,7 @@
   align="left"
   alt="Mohammed Nihal S ASCII Profile"
 />
-<p align="left">
+<p align="center">
   I'm a <strong>Robotics and Artificial Intelligence Engineering student</strong>
   passionate about exploring new technologies and building intelligent software
   that solves real-world problems.
