@@ -8,8 +8,6 @@
   >
 </p>
 
-<h2 align="center">🌐 Socials</h2>
-
 <p align="center">
   <a href="https://instagram.com/mdnihalshk2">
     <img src="https://img.shields.io/badge/Instagram-03090F?style=for-the-badge&logo=instagram&logoColor=white">
