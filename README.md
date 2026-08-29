@@ -32,17 +32,20 @@
   align="left"
   alt="Mohammed Nihal S ASCII Profile"
 />
-
-<p align="center" font-size = 30>
-  Hello! My name is <strong>Mohammed Nihal S</strong>, and I am a
-  <strong>Robotics and Artificial Intelligence Engineering student</strong>.
-  I am passionate about exploring new technologies, building intelligent
-  applications, and solving real-world problems through programming and AI.
-  Currently, I am strengthening my skills in
-  <strong>Python, Machine Learning, Deep Learning, Generative AI, LLMs, RAG,
-  FastAPI, Flask, NLP, Computer Vision, and backend development</strong>,
-  with a focus on creating practical, scalable, and AI-powered software while
-  continuously growing as a developer.
+<p align="left">
+  I'm a <strong>Robotics and Artificial Intelligence Engineering student</strong>
+  passionate about exploring new technologies and building intelligent software
+  that solves real-world problems.
+  <br><br>
+  My primary interests are in
+  <strong>Artificial Intelligence, Machine Learning, Deep Learning, Generative AI,
+  LLMs, RAG, NLP, Computer Vision, and backend development</strong>.
+  I enjoy transforming ideas into practical applications using
+  <strong>Python, FastAPI, Flask, REST APIs, databases, and modern AI technologies</strong>.
+  <br><br>
+  I'm currently focused on strengthening my understanding of scalable AI systems,
+  production-ready machine learning applications, and intelligent automation while
+  continuously experimenting, building projects, and growing as a developer.
 </p>
 
 <br clear="left">
