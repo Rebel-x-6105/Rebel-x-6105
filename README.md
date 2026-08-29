@@ -33,7 +33,7 @@
   alt="Mohammed Nihal S ASCII Profile"
 />
 
-<p align="center">
+<p align="center" font-size = 30>
   Hello! My name is <strong>Mohammed Nihal S</strong>, and I am a
   <strong>Robotics and Artificial Intelligence Engineering student</strong>.
   I am passionate about exploring new technologies, building intelligent
