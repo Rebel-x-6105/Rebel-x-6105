@@ -22,9 +22,9 @@
   </a>
 </p>
 
-<h2 align="center">◉ About Me</h2>
-
-<hr>
+<h2 align="center">
+  <span style="color:#263F41;">◉ <i>About Me</i></span>
+</h2>
 
 <img
   src="./nihal_ascii_profile_v2_transparent.svg"
@@ -32,20 +32,32 @@
   align="left"
   alt="Mohammed Nihal S ASCII Profile"
 />
+
+<br>
+
 <p align="center">
   I'm a <strong>Robotics and Artificial Intelligence Engineering student</strong>
   passionate about exploring new technologies and building intelligent software
   that solves real-world problems.
   <br><br>
+
   My primary interests are in
-  <strong>Artificial Intelligence, Machine Learning, Deep Learning, Generative AI,
-  LLMs, RAG, NLP, Computer Vision, and backend development</strong>.
+  <strong>
+    Artificial Intelligence, Machine Learning, Deep Learning,
+    Generative AI, LLMs, RAG, NLP, Computer Vision,
+    and backend development
+  </strong>.
   I enjoy transforming ideas into practical applications using
-  <strong>Python, FastAPI, Flask, REST APIs, databases, and modern AI technologies</strong>.
+  <strong>
+    Python, FastAPI, Flask, REST APIs, databases,
+    and modern AI technologies
+  </strong>.
   <br><br>
-  I'm currently focused on strengthening my understanding of scalable AI systems,
-  production-ready machine learning applications, and intelligent automation while
-  continuously experimenting, building projects, and growing as a developer.
+
+  I'm currently focused on strengthening my understanding of
+  scalable AI systems, production-ready machine learning applications,
+  and intelligent automation while continuously experimenting,
+  building projects, and growing as a developer.
 </p>
 
 <br clear="left">
