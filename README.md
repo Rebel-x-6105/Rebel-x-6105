@@ -28,11 +28,10 @@
 
 <hr>
 
-<img 
-  src="./nihal_ascii_profile_v2.svg"
-  width="270"
-  align="left"
-  alt="Mohammed Nihal S"
+<img
+  src="./nihal_ascii_profile_v2_transparent.svg"
+  width="230"
+  alt="Mohammed Nihal S ASCII Profile"
 />
 
 <p align="center">
