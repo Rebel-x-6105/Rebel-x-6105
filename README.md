@@ -2,7 +2,7 @@
   <img 
     src="assests/IMG_2025-800x450-modified.png"
     width="800px" 
-    height = "450"
+    height = "450px"
     alt="Welcome to Nihal's Profile"
     style="border-radius: 15px;"
   >
