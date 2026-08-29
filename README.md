@@ -1,7 +1,7 @@
 <p align="center">
   <img 
     src="assests/IMG_2025-800x450-modified.png"
-    width="1200"
+    width="800"
     alt="Welcome to Nihal's Profile"
     style="border-radius: 15px;"
   >
