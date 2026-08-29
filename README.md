@@ -22,7 +22,7 @@
   </a>
 </p>
 
-<h2 align="center">◉ <i>About Me</i></h2>
+<h2 align="center">◉ About Me</h2>
 
 <hr>
 
