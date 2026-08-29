@@ -62,9 +62,70 @@
 
 <br clear="left">
 
+# 💻 Tech Stack
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+### 🧠 Programming Languages
+
+![Python](https://img.shields.io/badge/Python-03090F?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![JavaScript](https://img.shields.io/badge/JavaScript-0B1920?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
+![PHP](https://img.shields.io/badge/PHP-263F41?style=for-the-badge&logo=php&logoColor=FFFFFF)
+
+---
+
+### 🎨 Frontend Development
+
+![HTML5](https://img.shields.io/badge/HTML5-03090F?style=for-the-badge&logo=html5&logoColor=FFFFFF)
+![CSS3](https://img.shields.io/badge/CSS3-0B1920?style=for-the-badge&logo=css3&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-263F41?style=for-the-badge&logo=react&logoColor=FFFFFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-60796B?style=for-the-badge&logo=tailwindcss&logoColor=FFFFFF)
+![Next.js](https://img.shields.io/badge/Next.js-03090F?style=for-the-badge&logo=next.js&logoColor=FFFFFF)
+
+---
+
+### ⚙️ Backend & APIs
+
+![FastAPI](https://img.shields.io/badge/FastAPI-263F41?style=for-the-badge&logo=fastapi&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-60796B?style=for-the-badge&logo=node.js&logoColor=FFFFFF)
+
+---
+
+### 🗄️ Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-03090F?style=for-the-badge&logo=mysql&logoColor=FFFFFF)
+![MongoDB](https://img.shields.io/badge/MongoDB-263F41?style=for-the-badge&logo=mongodb&logoColor=FFFFFF)
+
+---
+
+### 🤖 AI / ML & Data
+
+![Pandas](https://img.shields.io/badge/Pandas-03090F?style=for-the-badge&logo=pandas&logoColor=FFFFFF)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0B1920?style=for-the-badge&logo=scikitlearn&logoColor=FFFFFF)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-263F41?style=for-the-badge&logo=pytorch&logoColor=FFFFFF)
+![Generative AI](https://img.shields.io/badge/Generative%20AI-60796B?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![LLMs](https://img.shields.io/badge/LLMs-03090F?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![RAG](https://img.shields.io/badge/RAG-0B1920?style=for-the-badge&logo=databricks&logoColor=FFFFFF)
+![Computer Vision](https://img.shields.io/badge/Computer%20Vision-263F41?style=for-the-badge&logo=opencv&logoColor=FFFFFF)
+
+---
+
+### ☁️ Cloud & Development Tools
+
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-03090F?style=for-the-badge&logo=googlecloud&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/Git-0B1920?style=for-the-badge&logo=git&logoColor=FFFFFF)
+![GitHub](https://img.shields.io/badge/GitHub-263F41?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+---
+
+### 🎨 Design Tools
+
+![Figma](https://img.shields.io/badge/Figma-03090F?style=for-the-badge&logo=figma&logoColor=FFFFFF)
+![Canva](https://img.shields.io/badge/Canva-263F41?style=for-the-badge&logo=canva&logoColor=FFFFFF)
+
+---
+
+### 🤖 Hardware & Robotics
+
+![Arduino](https://img.shields.io/badge/Arduino-60796B?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Rebel-x-6105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rebel-x-6105&theme=dark&hide_border=false)<br/>
