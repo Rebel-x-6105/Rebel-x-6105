@@ -1,5 +1,10 @@
 <p align="center">
-  <img src="assests/IMG_2025.PNG" width="1200" height="300" alt="Welcome to Nihal's Profile">
+  <img 
+    src="assests/IMG_2025.PNG"
+    width="1200"
+    alt="Welcome to Nihal's Profile"
+    style="border-radius: 15px;"
+  >
 </p>
 
 # 💫 About Me:
