@@ -14,7 +14,7 @@
   </a>
 
   <a href="https://linkedin.com/in/mdnihalshk">
-    <img src="https://img.shields.io/badge/LinkedIn-0B1920?style=for-the-badge&logo=linkedin&logoColor=white">
+    <img src="https://img.shields.io/badge/LinkedIn-60796B?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
   <a href="mailto:mohammednihal665@gmail.com">
