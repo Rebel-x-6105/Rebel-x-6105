@@ -8,10 +8,6 @@
   >
 </p>
 
-<p align="center">
-  <img src="assests/IMG_2025.PNG" width="100%" alt="Welcome to Nihal's Profile">
-</p>
-
 <h2 align="center">🌐 Socials</h2>
 
 <p align="center">
