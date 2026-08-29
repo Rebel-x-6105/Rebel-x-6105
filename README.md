@@ -35,15 +35,6 @@
 
 <br>
 
-<h2 align="left">◉ <i>About Me</i></h2>
-
-<img
-  src="./nihal_ascii_profile_v2_transparent.svg"
-  width="28%"
-  align="left"
-  alt="Mohammed Nihal S ASCII Profile"
-/>
-
 <p align="center">
   I'm a <strong>Robotics and Artificial Intelligence Engineering student</strong>
   passionate about exploring new technologies and building intelligent software
