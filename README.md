@@ -21,6 +21,14 @@
     <img src="https://img.shields.io/badge/Email-263F41?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+<p align="center">
+  <img
+    src="./nihal_ascii_profile_v2.svg"
+    width="430"
+    alt="Nihal ASCII Profile"
+  />
+</p>
 # 💫 About Me:
 ### 👨‍💻 About Me<br><br>I'm a Robotics & Artificial Intelligence Engineering student passionate about building intelligent software systems. I enjoy working with AI/ML, LLMs, backend development, and automation, and I'm constantly exploring new technologies by building practical projects.<br><br>🔭 I’m currently working on AI/ML projects, LLM-powered applications, RAG systems, and intelligent automation.<br><br>👯 I’m looking to collaborate on AI/ML, Generative AI, LLM, RAG, NLP, Computer Vision, and Python-based open-source projects.<br><br>🤝 I’m looking for help with building scalable AI systems, advanced LLM applications, cloud deployment, and production-level machine learning systems.<br><br>🌱 I’m currently learning advanced Machine Learning, Deep Learning, Generative AI, LLMs, RAG, backend development, and cloud technologies.<br><br>💬 Ask me about Python, AI/ML, LLMs, RAG, FastAPI, Flask, REST APIs, NLP, Computer Vision, MySQL, MongoDB, and AI automation.<br><br>⚡ Fun fact: I love turning AI ideas into practical applications — from personal AI assistants to systems that can understand documents and automate everyday tasks.
 
