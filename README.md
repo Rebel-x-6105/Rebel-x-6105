@@ -22,32 +22,34 @@
   </a>
 </p>
 
-<h2 align="center">
-  ◉ <i>About Me</i>
-</h2>
+<h2 align="center">◉ <i>About Me</i></h2>
 
 <hr>
 
-<img 
-  src="./nihal_ascii_profile_v2.svg"
-  width="270"
-  align="left"
-  alt="Nihal ASCII Profile"
-/>
-
-<p align="center">
-  Hello! My name is <strong>Mohammed Nihal S</strong>, and I am a
-  <strong>Robotics and Artificial Intelligence Engineering student</strong>.
-  I am passionate about exploring new technologies, building intelligent
-  applications, and solving real-world problems through programming and AI.
-  Currently, I am strengthening my skills in
-  <strong>Python, Machine Learning, Deep Learning, Generative AI, LLMs, RAG,
-  FastAPI, Flask, NLP, Computer Vision, and backend development</strong>,
-  with a focus on creating practical, scalable, and AI-powered software
-  while continuously growing as a developer.
-</p>
-
-<br clear="left">
+<table>
+  <tr>
+    <td width="32%" align="center" valign="middle">
+      <img
+        src="./nihal_ascii_profile_v2.svg"
+        width="240"
+        alt="Mohammed Nihal S ASCII Profile"
+      />
+    </td>
+    <td width="68%" align="center" valign="middle">
+      Hello! My name is <strong>Mohammed Nihal S</strong>, and I am a
+      <strong>Robotics and Artificial Intelligence Engineering student</strong>.
+      I am passionate about exploring new technologies, building intelligent
+      applications, and solving real-world problems through programming and AI.
+      Currently, I am strengthening my skills in
+      <strong>
+        Python, Machine Learning, Deep Learning, Generative AI, LLMs, RAG,
+        FastAPI, Flask, NLP, Computer Vision, and backend development
+      </strong>,
+      with a focus on creating practical, scalable, and AI-powered software
+      while continuously growing as a developer.
+    </td>
+  </tr>
+</table>
 
 
 ## 🌐 Socials:
