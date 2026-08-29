@@ -62,7 +62,10 @@
 
 <br clear="left">
 
-# 💻 Tech Stack
+<h2 align="left">
+  <span style="color:#263F41;">◉ <i>Tech Stack</i></span>
+</h2>
+
 ![Python](https://img.shields.io/badge/Python-03090F?style=for-the-badge&logo=python&logoColor=FFFFFF)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0B1920?style=for-the-badge&logo=javascript&logoColor=FFFFFF)
 ![PHP](https://img.shields.io/badge/PHP-263F41?style=for-the-badge&logo=php&logoColor=FFFFFF)
@@ -88,6 +91,9 @@
 ![Figma](https://img.shields.io/badge/Figma-03090F?style=for-the-badge&logo=figma&logoColor=FFFFFF)
 ![Canva](https://img.shields.io/badge/Canva-263F41?style=for-the-badge&logo=canva&logoColor=FFFFFF)
 ![Arduino](https://img.shields.io/badge/Arduino-60796B?style=for-the-badge&logo=arduino&logoColor=FFFFFF)
+
+
+
 ![](https://github-readme-stats.shion.dev/api?username=Rebel-x-6105&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Rebel-x-6105&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Rebel-x-6105&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
