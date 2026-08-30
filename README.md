@@ -40,7 +40,7 @@
   passionate about exploring new technologies and building intelligent software
   that solves real-world problems.
   <br><br>
-
+  
   My primary interests are in
   <strong>Artificial Intelligence, Machine Learning, Deep Learning,
   Generative AI, LLMs, RAG, NLP, Computer Vision, and backend development</strong>.
