@@ -28,7 +28,7 @@
 
 <img
   src="./nihal_ascii_profile_v2_transparent.svg"
-  width="35%"
+  width="30%"
   align="left"
   alt="Mohammed Nihal S ASCII Profile"
 />
