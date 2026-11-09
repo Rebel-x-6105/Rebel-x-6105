@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="Welcome to Nihal’s profile.png"
+    src="assests/IMG_2025-1200x350-modified-modified.png"
     width="1200px" 
     height = "350px"
     alt="Welcome to Nihal's Profile"
